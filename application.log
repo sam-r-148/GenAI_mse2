@@ -1,0 +1,14 @@
+2026-08-18 10:01:01 INFO UserService Request successful
+2026-08-18 10:01:05 INFO UserService Request successful
+2026-08-18 10:01:09 INFO UserService Request successful
+2026-08-18 10:01:15 INFO UserService Request successful
+2026-08-18 10:02:01 INFO UserService Request successful
+2026-08-18 10:02:05 INFO UserService Request successful
+2026-08-18 10:02:10 ERROR UserService Database timeout
+2026-08-18 10:02:11 ERROR UserService Database timeout
+2026-08-18 10:02:12 ERROR UserService Database timeout
+2026-08-18 10:02:13 ERROR UserService Database timeout
+2026-08-18 10:02:14 ERROR UserService Database timeout
+2026-08-18 10:03:01 INFO UserService Request successful
+2026-08-18 10:03:05 INFO UserService Request successful
+2026-08-18 10:03:09 INFO UserService Request successful
